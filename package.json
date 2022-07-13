@@ -1,0 +1,24 @@
+{
+  "name": "homework-2",
+  "version": "1.0.0",
+  "description": "render random color-box for learn npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HusniddinJamoliddinov/color-highlight-husniddin.git"
+  },
+  "keywords": [
+    "color-highlight",
+    "learn-npm",
+    "husniddin"
+  ],
+  "author": "husniddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HusniddinJamoliddinov/color-highlight-husniddin/issues"
+  },
+  "homepage": "https://github.com/HusniddinJamoliddinov/color-highlight-husniddin#readme"
+}

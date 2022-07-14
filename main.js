@@ -1,6 +1,4 @@
-const boxes = document.querySelectorAll(".box");
-
-function colorHightlight(boxes){
+ export function colorHightlight(boxes){
   for (const box of boxes) {
     box.addEventListener("mouseover", () => {
       box.style.backgroundColor = "coral";
